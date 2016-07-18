@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name         = 'CZScrollViewImage'
   s.license      = 'MIT'
   s.requires_arc = true
-  s.version      = '0.0.1'
+  s.version      = '0.0.2'
   s.platform     = :ios, '7.0'
   s.ios.deployment_target = '7.0'
   s.framework    = 'UIKit'
